@@ -47,10 +47,10 @@ then
 about
 elif [[ "$sit" = "4" || "$sit" = "four" ]];
 then
-xdg-open https://t.me/sedxjerryhacking 2>/dev/null
+xdg-open https://t.me/sedxjerryhack 2>/dev/null
 elif [[ "$sit" = "5" || "$sit" = "five" ]];
 then
-xdg-open https://t.me/sedxjerrychannel  2>/dev/null
+xdg-open https://t.me/swp1k  2>/dev/null
 elif [[ "$sit" = "6" || "$sit" = "six" ]];
 then
 xdg-open https://t.me/jerryhackingBot  > /dev/null 2>&1
